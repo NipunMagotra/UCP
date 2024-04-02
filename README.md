@@ -38,14 +38,5 @@ UCP leverages the following technologies to deliver its functionality:
 - **Socket.IO**: Real-time bi-directional communication between web clients and servers.
 - **MongoDB**: NoSQL database for storing user data, messages, and files.
 
-## Contributing
-
-Contributions to UCP are welcome! If you have ideas for new features, improvements, or bug fixes, please submit an issue or pull request on the GitHub repository.
-
-## License
-
-UCP is licensed under the [MIT License](LICENSE).
-
----
 
 *Note: This readme provides an overview of the Unified Communication Platform (UCP). For more detailed information on how to use the platform and its features, refer to the platform documentation or user guides.*
